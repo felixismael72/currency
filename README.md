@@ -1,7 +1,3 @@
 # Currency
 
-Here you can find a WIP project which aims to implement a mobile app to handle currency conversion.
-
-TODO:
-
-- everything :P
+Here you can find a project that handles currency conversion. It's not pretty, but you can use it just fine! 😃
